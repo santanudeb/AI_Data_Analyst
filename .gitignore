@@ -1,0 +1,25 @@
+# Environment
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Chroma / vector database
+chroma_db/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Backup
+backup/
+
+# Other
+src/notes.py
