@@ -29,6 +29,19 @@ RAG-based document question answering, and machine learning.
 - MySQL
 - Git & GitHub
 
+## Project Structure
+
+```text
+AI_Data_Analyst/
+├── data/
+├── documents/
+├── models/
+├── src/
+├── static/
+├── app.py
+├── requirements.txt
+└── README.md
+
 ## Preview
 
 **Homepage** 
@@ -54,16 +67,3 @@ RAG-based document question answering, and machine learning.
 **Ai Salary Prediction Output** 
 
 ![Ai salary prediction output](screenshots/ai_salary_prediction_output.png)
-
-## Project Structure
-
-```text
-AI_Data_Analyst/
-├── data/
-├── documents/
-├── models/
-├── src/
-├── static/
-├── app.py
-├── requirements.txt
-└── README.md
