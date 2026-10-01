@@ -41,6 +41,7 @@ AI_Data_Analyst/
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Preview
 
