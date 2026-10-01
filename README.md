@@ -31,19 +31,23 @@ RAG-based document question answering, and machine learning.
 
 ## Preview
 
-| Homepage | Home page with light theme |
-|---|---|
-| ![Homepage](screenshots/home_page.png) | ![Home page with light theme](screenshots/home_page_switching_theme.png) |
+**Homepage** 
+![Homepage](screenshots/screenshots/home_page.png)
 
-| **Ai answering from documents** |
+**Home page with light theme** 
+![Home page with light theme](screenshots/home_page_switching_theme.png)
+
+**Ai answering from documents** 
 ![Ai answering from documentst](screenshots/ai_answering_from_documents.png)
 
-| **Ai answering from dataset** |
+**Ai answering from dataset** 
 ![Ai answering from dataset](screenshots/ai_answering_from_dataset.png)
 
-| Ai salary prediction input | Ai salary prediction output |
-|---|---|
-| ![Ai salary prediction input](screenshots/ai_salary_prediction_input.png) | ![Ai salary prediction output](screenshots/ai_salary_prediction_output.png) |
+**Ai salary prediction input** 
+![Ai salary prediction input](screenshots/ai_salary_prediction_input.png)
+
+**Ai salary prediction output** 
+![Ai salary prediction output](screenshots/ai_salary_prediction_output.png)
 
 ## Project Structure
 
